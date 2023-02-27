@@ -1,0 +1,22 @@
+Question 2
+Les types et les valeur des att sont
+string pour "firstNale" valeur = Louis
+string pour "lastName" valeur = Dupont
+array pour "marks" valeur = []
+
+Question 3
+Les types et les valeur des att sont
+string pour "firstNale" valeur = Kevin
+string pour "lastName" valeur = Laplace
+array pour "marks" valeur = les valeurs des elt du tableaux passer en parametre
+
+Question 4
+Il n'est pas nessesaire de modifier la classe Student car elle est composer de type clonable de base
+ce qui la rand clonable elle aussi
+
+question 5
+Il faut deffinire la methode __toString
+
+Question 6 ci le  principe d’encapsulation des données n'est pas respecter on peux modifier les donner de
+l'exterieur
+
